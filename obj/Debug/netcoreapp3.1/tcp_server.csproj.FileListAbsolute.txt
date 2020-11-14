@@ -1,0 +1,13 @@
+C:\Users\marfx\source\repos\tcp_server\bin\Debug\netcoreapp3.1\tcp_server.exe
+C:\Users\marfx\source\repos\tcp_server\bin\Debug\netcoreapp3.1\tcp_server.deps.json
+C:\Users\marfx\source\repos\tcp_server\bin\Debug\netcoreapp3.1\tcp_server.runtimeconfig.json
+C:\Users\marfx\source\repos\tcp_server\bin\Debug\netcoreapp3.1\tcp_server.runtimeconfig.dev.json
+C:\Users\marfx\source\repos\tcp_server\bin\Debug\netcoreapp3.1\tcp_server.dll
+C:\Users\marfx\source\repos\tcp_server\bin\Debug\netcoreapp3.1\tcp_server.pdb
+C:\Users\marfx\source\repos\tcp_server\obj\Debug\netcoreapp3.1\tcp_server.csprojAssemblyReference.cache
+C:\Users\marfx\source\repos\tcp_server\obj\Debug\netcoreapp3.1\tcp_server.AssemblyInfoInputs.cache
+C:\Users\marfx\source\repos\tcp_server\obj\Debug\netcoreapp3.1\tcp_server.AssemblyInfo.cs
+C:\Users\marfx\source\repos\tcp_server\obj\Debug\netcoreapp3.1\tcp_server.csproj.CoreCompileInputs.cache
+C:\Users\marfx\source\repos\tcp_server\obj\Debug\netcoreapp3.1\tcp_server.dll
+C:\Users\marfx\source\repos\tcp_server\obj\Debug\netcoreapp3.1\tcp_server.pdb
+C:\Users\marfx\source\repos\tcp_server\obj\Debug\netcoreapp3.1\tcp_server.genruntimeconfig.cache
